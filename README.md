@@ -5,3 +5,5 @@ Installing synergy modded is straightforward, simply click the green 'Code' butt
 Once the mods are in place, run the executable file, and you will be able to access and use any mods you have installed. In addition, a Mods menu will appear in the top left of the screen, displaying all the mods you have installed.
 
 With that have fun and good luck! To find mods for the game you can join the unoffical synergy discord [here.](https://discord.gg/578WBFngHd) 
+___
+![image](https://user-images.githubusercontent.com/98196860/219175689-4ab547fc-3b24-4806-9f00-4c11b82e870b.png)
