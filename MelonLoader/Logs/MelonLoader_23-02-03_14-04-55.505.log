@@ -1,0 +1,51 @@
+[14:04:55.524] ------------------------------
+[14:04:55.524] MelonLoader v0.5.7 Open-Beta
+[14:04:55.525] OS: Windows 10
+[14:04:55.526] Hash Code: 49999848531024954985654485098975250521005157544948501005510199495356
+[14:04:55.526] ------------------------------
+[14:04:55.527] Game Type: MonoBleedingEdge
+[14:04:55.527] Game Arch: x64
+[14:04:55.528] ------------------------------
+[14:04:55.528] Core::BasePath = C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main
+[14:04:55.529] Game::BasePath = C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main
+[14:04:55.530] Game::DataPath = C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main\SYNERGY_Data
+[14:04:55.530] Game::ApplicationPath = C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main\SYNERGY.exe
+
+[14:04:55.942] ------------------------------
+[14:04:55.943] Game Name: SYNERGY
+[14:04:55.943] Game Developer: DefaultCompany
+[14:04:55.949] Unity Version: 2019.4.28f1
+[14:04:55.950] Game Version: 0.1
+[14:04:55.952] ------------------------------
+
+[14:04:56.772] Preferences Loaded!
+
+[14:04:56.814] Loading Plugins from 'C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main\Plugins'...
+[14:04:56.817] 0 Plugins loaded.
+
+[14:04:57.829] [MelonStartScreen] Initializing...
+[14:04:57.889] [MelonStartScreen] Using Start Screen Theme: "Default"
+
+
+[14:05:00.662] Loading Mods from 'C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main\Mods'...
+[14:05:00.710] ------------------------------
+[14:05:00.737] Melon Assembly loaded: '.\Mods\BGMMod.dll'
+[14:05:00.738] SHA256 Hash: '4c2b7869a26f0e17817033ef774efa75f28889cbe847398574a9b6d22798f8ac'
+[14:05:00.745] Melon Assembly loaded: '.\Mods\JToQuit.dll'
+[14:05:00.746] SHA256 Hash: '0d1b13bf5328346d448dc1532ae4570babb97ad72fadcce9ee4d388e5c56d9be'
+
+[14:05:00.804] ------------------------------
+[14:05:00.804] BGMMod v1.0.0
+[14:05:00.806] by Loopymtb
+[14:05:00.809] Assembly: BGMMod.dll
+[14:05:00.810] ------------------------------
+[14:05:00.813] ------------------------------
+[14:05:00.813] QuitMod v1.0.0
+[14:05:00.816] by Loopymtb
+[14:05:00.818] Assembly: JToQuit.dll
+[14:05:00.819] ------------------------------
+[14:05:00.820] ------------------------------
+[14:05:00.821] 2 Mods loaded.
+
+[14:05:00.838] Support Module Loaded: C:\Users\loopy\Downloads\SYNERGY-main\SYNERGY-main\MelonLoader\Dependencies\SupportModules\Mono.dll
+[14:05:42.426] Preferences Saved!
